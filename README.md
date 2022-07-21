@@ -1,6 +1,5 @@
 ### Olá 👋
 
-- 🌱 Estou aprendendo Typescript atualmente.
 - 👯 Procurando por oportunidades de trabalho.
 - 🤔 Você tem alguma dica para me ajudar na carreira?
 - 📫 Como me encontrar: vidivinny8859@gmail.com
